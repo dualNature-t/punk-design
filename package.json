@@ -1,0 +1,14 @@
+{
+  "name": "punk-design",
+  "version": "0.0.1",
+  "description": "React based UI library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "libary"
+  ],
+  "author": "dualless",
+  "license": "ISC"
+}
